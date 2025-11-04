@@ -22,3 +22,4 @@ Press any key to start.
 Watch the pattern of lights.
 Repeat the same pattern by clicking the buttons in order.
 Try to reach the highest level without making a mistake!
+....
